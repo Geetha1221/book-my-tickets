@@ -1,0 +1,103 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "KGF Chapter 1",
+      "genre": "Action",
+      "seats": 68,
+      "img": "https://m.media-amazon.com/images/M/MV5BNDVlYWYzNDUtZTM3Ny00OTI5LThiZDQtNTA0YjFhMTE1YTdjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "KGF Chapter 2",
+      "genre": "Action",
+      "seats": 70,
+      "img": "https://m.media-amazon.com/images/S/pv-target-images/dbe30e1e25813a698e0da679a5968c380bd2d1b4e6966394d4c964c6b3301896.jpg"
+    },
+    {
+      "id": "3",
+      "title": "18th Cross ",
+      "genre": "Action",
+      "seats": 70,
+      "img": "https://tse4.mm.bing.net/th/id/OIP.My4pov6HGVHyR_6aqQUEFQHaEK?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "4",
+      "title": "27 Mavalli Circle",
+      "genre": "Action",
+      "seats": 70,
+      "img": "https://tse1.mm.bing.net/th/id/OIP.VPgzoYkRaMxKF-QBNmClcgHaEK?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "5",
+      "title": "1st Rank Raju ",
+      "genre": "Action",
+      "seats": 70,
+      "img": "https://tse3.mm.bing.net/th/id/OIP.pjl49jTUs4KqBa7HfXTIlQHaFn?pid=Api&P=0&h=180"
+    }
+  ],
+  "sports": [
+    {
+      "id": "1",
+      "title": "Cricket",
+      "team": "RCB vs CSK",
+      "seats": 34000,
+      "img": "https://www.financialexpress.com/wp-content/uploads/2025/03/FotoJet-2025-03-28T111058.597.jpg",
+      "stadium": " M Chinnaswamy stadium"
+    },
+    {
+      "id": "2",
+      "title": "Football",
+      "team": "BFC vs GFC",
+      "seats": 15000,
+      "img": "https://www.indiansuperleague.com/static-assets/waf-images/e9/d2/80/4-3/kprHm8FCQ1.png?v=100.71&w=1024",
+      "stadium": "Kanteerava stadium "
+    },
+    {
+      "id": "3",
+      "title": "Cricket",
+      "team": "RCB vs PBKS",
+      "seats": 34990,
+      "img": "https://tse4.mm.bing.net/th/id/OIP.71lu4_5u9ktw5zU7BOGNlgHaED?pid=Api&P=0&h=180",
+      "stadium": " M Chinnaswamy stadium"
+    },
+    {
+      "id": "4",
+      "title": "Football",
+      "team": "BFC vs KFBC",
+      "seats": 15000,
+      "img": "https://tse1.mm.bing.net/th/id/OIP.9Gbk3fgizmpfbW69AwTUxAHaEK?pid=Api&P=0&h=180",
+      "stadium": "Kanteerava stadium "
+    },
+    {
+      "id": "5",
+      "title": "Cricket",
+      "team": "KKR vs RCB",
+      "seats": 35000,
+      "img": "https://tse2.mm.bing.net/th/id/OIF.lnhmyv2PcLXQ6Q91X2XV5A?pid=Api&P=0&h=180",
+      "stadium": " M Chinnaswamy stadium"
+    }
+  ],
+  "booking": [
+    {
+      "id": "b231",
+      "name": "pavan",
+      "email": "pavan@gmail.com",
+      "phone": "9874563210",
+      "seats": 10,
+      "refID": "3",
+      "title": "Cricket",
+      "type": "sports"
+    },
+    {
+      "id": "cf18",
+      "name": "Disha K V",
+      "email": "dishakv22@gmail.com",
+      "phone": "6361656506",
+      "seats": 2,
+      "refID": "1",
+      "title": "KGF Chapter 1",
+      "type": "movies"
+    }
+  ]
+}
